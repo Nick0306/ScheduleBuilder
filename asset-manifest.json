@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ScheduleBuilder/static/css/main.073c9b0a.css",
-    "main.js": "/ScheduleBuilder/static/js/main.6cab4395.js",
+    "main.css": "/ScheduleBuilder/static/css/main.b02269bd.css",
+    "main.js": "/ScheduleBuilder/static/js/main.e7edf9ee.js",
     "static/js/787.c79fd03e.chunk.js": "/ScheduleBuilder/static/js/787.c79fd03e.chunk.js",
-    "static/media/logo.svg": "/ScheduleBuilder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ScheduleBuilder/index.html",
-    "main.073c9b0a.css.map": "/ScheduleBuilder/static/css/main.073c9b0a.css.map",
-    "main.6cab4395.js.map": "/ScheduleBuilder/static/js/main.6cab4395.js.map",
+    "main.b02269bd.css.map": "/ScheduleBuilder/static/css/main.b02269bd.css.map",
+    "main.e7edf9ee.js.map": "/ScheduleBuilder/static/js/main.e7edf9ee.js.map",
     "787.c79fd03e.chunk.js.map": "/ScheduleBuilder/static/js/787.c79fd03e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6cab4395.js"
+    "static/css/main.b02269bd.css",
+    "static/js/main.e7edf9ee.js"
   ]
 }
